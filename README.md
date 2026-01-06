@@ -6,7 +6,7 @@ This repository explores the concept of **Runtime** in LangChain/LangGraph, a po
 
 In LangChain, **Runtime** is the elegant solution to the messy problem of context management. Think of Runtime as your agent's memory, configuration, and toolbox all rolled into one object that travels with every request.
 
-## Check runtimeC.ipynb file to better understand also check langchian docs
+# Check runtimeC.ipynb file to better understand also check langchain docs
 <a href="https://docs.langchain.com/oss/python/langchain/runtime" target="_blank" rel="noopener noreferrer">
   LangChain Runtime Documentation
 </a>
